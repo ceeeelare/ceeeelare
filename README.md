@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about ML. 
 - I like to code in R and I am trying to get better using Python.
 - Languages known: R, Ruby, Python, and postgresSQL, and SQLite.
-- I have experience in an Agile enviornment. 
+- I have experience in an Agile environment. 
 - I understand and can use Git
 - Educational background in Science (Physics) 
 - Currently studying a Masters
